@@ -1,6 +1,6 @@
 {
     "name": "node-id3-reader",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Native NodeJS ID3v2 tag reader",
     "main": "lib/index.js",
     "scripts": {
