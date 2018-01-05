@@ -1,0 +1,27 @@
+{
+  "name": "id3-reader",
+  "version": "1.0.0",
+  "description": "Native NodeJS ID3v2 tag reader",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Choko256/id3-reader.git"
+  },
+  "author": "Michael Chacaton <chako256@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Choko256/id3-reader/issues"
+  },
+  "homepage": "https://github.com/Choko256/id3-reader#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.1.2",
+    "eslint": "^4.14.0",
+    "eslint-plugin-async-await": "0.0.0",
+    "eslint-plugin-babel": "^4.1.2",
+    "jest": "^22.0.4",
+    "prettier-eslint": "^8.7.0"
+  }
+}
